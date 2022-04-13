@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Evan
 - I am currently a junior at CPHS
-- I am new to programming and currently learning java and swift
+- I am new to programming and currently learning java, javascrpt and swift
 - My favorite hobbies include video games, biking, and hanging out with friends
 - I always try to be friendly and trustworthy and like meeting new people
 
