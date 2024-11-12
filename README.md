@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Evan
-- I am currently a senior at CPHS
+- I am currently a sophomore at the University of Texas at Dallas
 - I am new to programming and currently learning java, javascrpt, and swift
 - My favorite hobbies include video games, biking, and hanging out with friends
 - I always try to be friendly and trustworthy and like meeting new people
